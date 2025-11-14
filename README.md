@@ -20,3 +20,5 @@ This recipe page teaches you how to:
 This layout can be reused and styled for different recipes or even as part of a full cooking blog.
 
 see recipe.png for template
+
+Photo by Lisa from Pexels from Pexels: https://www.pexels.com/photo/macro-photography-of-pile-of-3-cookie-230325/
